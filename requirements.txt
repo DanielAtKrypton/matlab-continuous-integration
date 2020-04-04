@@ -1,4 +1,4 @@
 forge://control
 fex://55540-dummy-package
 https://sites.google.com/site/nmftool/home/source-code/nmfv1_4.zip
-http://www.colorado.edu/conflict/peace/download/peace_essay.ZIP
+http://www.intractableconflict.org/www_colorado_edu_conflict/peace/download/peace_essay.ZIP
